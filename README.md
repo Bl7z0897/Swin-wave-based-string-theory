@@ -16,7 +16,7 @@ This research delves into:
 - Possible **applications** in higher-dimensional physics.
 
 ## 🔬 Research Paper
-📄 The full research paper is available in this repository. [Click here to access](./your-paper-file.pdf) (Upload your actual file).
+📄 The full research paper is available in this repository. [Click here to access](./your-paper-file.pdf) 
 
 ## 📖 How to Cite
 If you use this work in your research, please cite it as follows:
