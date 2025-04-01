@@ -20,8 +20,8 @@ This research delves into:
 ## 📖 How to Cite
 If you use this work in your research, please cite it as follows:
 ```
-@article{Eswin2025,
-  author    = {Eswin},
+@article{Tejeswin R2025,
+  author    = {Tejeswin R},
   title     = {Swin-wave-based String Theory: A Mathematical Foundation},
   year      = {2025},
   journal   = {GitHub Publications},
